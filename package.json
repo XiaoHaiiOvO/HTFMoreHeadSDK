@@ -1,0 +1,21 @@
+{
+  "name": "com.htfmodding.morehead-sdk",
+  "version": "0.6.0",
+  "displayName": "HTF MoreHead SDK",
+  "description": "Unity Editor authoring tools and player reference for building HTF MoreHead .htfhhh cosmetic packages.",
+  "unity": "6000.4",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.4.0"
+  },
+  "samples": [
+    {
+      "displayName": "MoreHead Authoring Reference",
+      "description": "Clean player reference, three category anchors, and an authoring scene.",
+      "path": "Samples~/Authoring"
+    }
+  ],
+  "author": {
+    "name": "XiaoHaiiOvO",
+    "url": "https://github.com/XiaoHaiiOvO"
+  }
+}
